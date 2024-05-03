@@ -7,7 +7,7 @@ export default function Header(){
 
         <nav className="flex items-center gap-8 text-gray-500 font-semibold">
         <Link className="text-primary font-semibold text-2xl"  href={'/'}>
-          Sip & Bite
+          AMUL NSUT
         </Link>
           <Link href={'/'}>Home</Link>
           <Link href={''}>Menu</Link>
