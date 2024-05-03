@@ -5,7 +5,7 @@ export default function Hero() {
     return (
         <section className="hero mt-4" >
             <div className="py-12">
-            <h1 className="text-4xl font-semibold">Sip, Bite, 
+            <h1 className="text-4xl font-semibold">Eat, Bite, 
             <span className="text-primary"> Enjoy!</span>
              </h1>
             <p className=" my-4 text-gray-500 text-sm">Your one-stop destination for delicious bites <br /> and refreshing sips!</p>      
